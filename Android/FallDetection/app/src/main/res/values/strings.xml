@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FallDetection</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginhere">loginhere</string>
+    <string name="fullname">fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere2">Already have an account? <u>Login</u> </string>
+    <string name="register">Not registered yet? Sign up <u>here</u></string>
+    <string name="welcome">Welcome to Fall Detection!</string>
+    <string name="History">Fall History</string>
+    <string name="ArduinoID">ArduinoID</string>
+</resources>

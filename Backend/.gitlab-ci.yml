@@ -1,0 +1,6 @@
+install_dependencies:
+    stage: deploy
+    tags:
+        - ehealth
+    script:
+        - echo "hello"
